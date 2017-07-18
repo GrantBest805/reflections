@@ -3,3 +3,9 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory ant the repository? What value do you think it offers?
 1-The staging area is a set up area not a working version. I think it allows you the oppertunity to go over the changes you are about to make.
+
+How can you use the staging area to make sure you have one commit per logical change? 
+    1-Using (git diff) this compares working directory and staging area and (git diff --staged) this compares staging area with repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would from  an exprienced Git user.
+1-Working with others and takeing risks without changing master. 
