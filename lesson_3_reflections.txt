@@ -5,3 +5,8 @@ When would you want to use a remote repository rather than keep all your work lo
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 - because the remote rep on github are public you may only want working finished versions of project public. Also If others are working on same project you would want to all have same version, which may not happen if version is always auto changing. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+- Fork is clone of someone elses git repository 
+- clone is copy repository to local machine. 
+
