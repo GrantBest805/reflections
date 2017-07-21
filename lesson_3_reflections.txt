@@ -2,3 +2,6 @@ When would you want to use a remote repository rather than keep all your work lo
 - When you want to share your work with others 
 - Work with others on a project.
 - Access your files and work on them from any computer. 
+
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+- because the remote rep on github are public you may only want working finished versions of project public. Also If others are working on same project you would want to all have same version, which may not happen if version is always auto changing. 
